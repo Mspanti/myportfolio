@@ -91,4 +91,17 @@ body{
     height: 100%;
     width: 40px;
     border-radius: 5px;
+
+}
+
+.submit button{
+    background-color: #6583e5;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    height: 100%;
+    width: 40px;
+    border-radius: 5px;
+
 }

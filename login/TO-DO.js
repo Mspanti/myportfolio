@@ -22,4 +22,9 @@ document.querySelector('#push').onclick = function(){
             }
         }
     }
+    const sub = document.getElementById('submit')
+
+sub.addEventListener('submit', function(event) {
+    event.preventDefault();
+})
 }
